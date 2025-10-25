@@ -1,12 +1,19 @@
-# Hi there 👋
+# 👋 Hey there, I'm Ashif
 
-I'm Ashif — a learner who enjoys coding and building small projects.  
-Currently exploring web development and improving my problem-solving skills.
+💡 A curious learner who enjoys turning ideas into simple, working code.  
+Currently exploring **Web Development** and sharpening my **Python** skills.
 
 ---
 
-🌱 **Learning:** Python | JavaScript | Web Development  
-💻 **Tools I use:** VS Code | Git | Linux  
+### 🧠 What I'm Learning
+- 🌱 Web Development  
+- 🐍 Python  
+- ⚙️ Git & Linux Basics  
+
+---
+
+### 🛠 Tools I Use
+VS Code · Git · Linux Terminal  
 
 ---
 
